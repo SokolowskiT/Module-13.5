@@ -1,0 +1,22 @@
+{
+  "name": "npm_basic",
+  "version": "1.0.0",
+  "description": "Learning of npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "learninig npm node"
+  },
+  "keywords": [
+    "Tomasz"
+  ],
+  "author": "Tomasz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1"
+  }
+}
